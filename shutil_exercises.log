@@ -1,0 +1,11 @@
+2025-07-07 20:23:27.740 | INFO     | __main__:run_examples:59 - شروع اجرای مثال‌ها
+2025-07-07 20:23:27.743 | INFO     | __main__:create_sample_files:25 - فایل‌های نمونه ایجاد شدند
+2025-07-07 20:23:27.744 | INFO     | __main__:run_examples:66 - فایل file1.txt کپی شد
+2025-07-07 20:23:27.753 | INFO     | __main__:run_examples:70 - دایرکتوری exercise_folder کپی شد
+2025-07-07 20:23:27.754 | INFO     | __main__:run_examples:74 - فایل file2.txt انتقال یافت
+2025-07-07 20:30:46.743 | INFO     | __main__:run_examples:59 - شروع اجرای مثال‌ها
+2025-07-07 20:30:46.744 | INFO     | __main__:create_sample_files:25 - فایل‌های نمونه ایجاد شدند
+2025-07-07 20:30:46.745 | INFO     | __main__:run_examples:66 - فایل file1.txt کپی شد
+2025-07-07 20:30:58.692 | INFO     | __main__:run_examples:59 - شروع اجرای مثال‌ها
+2025-07-07 20:30:58.693 | INFO     | __main__:create_sample_files:25 - فایل‌های نمونه ایجاد شدند
+2025-07-07 20:30:58.694 | INFO     | __main__:run_examples:66 - فایل file1.txt کپی شد
